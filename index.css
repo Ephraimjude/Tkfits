@@ -239,7 +239,7 @@ nav .menu{
 
   body{
     background-image: url(768bg.jfif);
-    overflow-x: hidden;
+    max-width: 768px;
   }
   
   .contact{
